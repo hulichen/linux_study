@@ -1,0 +1,16 @@
+arg
+arg.c
+core.11594
+err
+err.c
+exec
+exec.c
+exit.c
+makefile
+minishell
+minishell.c
+myexit
+tmp.txt
+wait
+wait1
+wait.c
